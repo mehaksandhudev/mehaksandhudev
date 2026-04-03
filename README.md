@@ -1,5 +1,9 @@
 # 💫 About Me:
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://mehak-new-port.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-black?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://www.mehak-sandhu.in)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehaksandhudev)
+
 ## 🌱 **Currently Working On**
 - AI automations with **n8n**, **Supabase**, **Ollama** for content pipelines
 - **Contributing to open source** AI/dev tools
