@@ -1,43 +1,29 @@
 # 💫 About Me:
-Currently Working On
 
-AI automations with n8n, Supabase, Ollama for content pipelines
+## 🌱 **Currently Working On**
+- AI automations with **n8n**, **Supabase**, **Ollama** for content pipelines
+- **Contributing to open source** AI/dev tools
+- Docker/AWS EC2 container optimization
 
-Contributing to open source AI/dev tools
+## 👥 **Looking to Collaborate On**
+- n8n/Docker/AWS EC2 automation workflows
+- Open-source Node.js backend projects
+- Python/JavaScript social media automation
 
-Docker/AWS EC2 container optimization
+## 💡 **Looking for Help With**
+- Ollama model fine-tuning & API integrations
+- Scaling Node.js + Supabase for production
+- Free SaaS alternatives (video editors, clipping tools)
+- Docker multi-container PowerShell/Ubuntu scripts
+- Reverse-engineering closed APIs
 
-Looking to Collaborate On
+## 📚 **Ask Me About Learning**
+- Self-taught n8n → full-stack JS/Python/SQL
+- Node.js, Supabase, Docker backend dev
+- AWS EC2, Ubuntu, VS Code DevOps
+- TikTok/YouTube API content analysis
 
-n8n/Docker/AWS EC2 automation workflows
-
-Open-source Node.js backend projects
-
-Python/JavaScript social media automation
-
-Looking for Help With
-
-Ollama model fine-tuning & API integrations
-
-Scaling Node.js + Supabase for production
-
-Free SaaS alternatives (video editors, clipping tools)
-
-Docker multi-container PowerShell/Ubuntu scripts
-
-Reverse-engineering closed APIs
-
-Ask Me About Learning
-
-Self-taught n8n → full-stack JS/Python/SQL
-
-Node.js, Supabase, Docker backend dev
-
-AWS EC2, Ubuntu, VS Code DevOps
-
-TikTok/YouTube API content analysis
-
-Fun Fact
+## 😎 **Fun Fact**
 Built $0 autopilot content pipeline with n8n + Node.js—kills Submagic, Creatomate, clipping tools, paste2json! 🚀💸
 
 ## 🌐 Socials:
