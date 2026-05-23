@@ -3,7 +3,20 @@
 ### 🚀 Automation Engineer & Backend Architect
 Specializing in building self-hosted automation systems, autonomous AI agents, and high-throughput media ingestion pipelines that eliminate SaaS subscription costs.
 
-[🌐 Portfolio Website](https://www.mehak-sandhu.in) • [🔗 LinkedIn](https://www.linkedin.com/in/mehak-sandhu-dev) • [✉️ Email](mailto:mehaksandhudev@gmail.com)
+<p align="center">
+  <a href="https://www.mehak-sandhu.in" target="_blank">
+    <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/mehak-sandhu-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/mehaksandhudev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:mehaksandhudev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
