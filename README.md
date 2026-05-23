@@ -1,20 +1,20 @@
-# Hi, I'm Mehak Sandhu ðŸ‘‹
+# Hi, I'm Mehak Sandhu 👋
 
-### ðŸš€ Automation Engineer & Backend Architect
+### 🚀 Automation Engineer & Backend Architect
 Specializing in building self-hosted automation systems, autonomous AI agents, and high-throughput media ingestion pipelines that eliminate SaaS subscription costs.
 
-[ðŸŒ Portfolio Website](https://www.mehak-sandhu.in) â€¢ [ðŸ”— LinkedIn](https://www.linkedin.com/in/mehak-sandhu-dev) â€¢ [âœ‰ï¸ Email](mailto:mehaksandhudev@gmail.com)
+[🌐 Portfolio Website](https://www.mehak-sandhu.in) • [🔗 LinkedIn](https://www.linkedin.com/in/mehak-sandhu-dev) • [✉️ Email](mailto:mehaksandhudev@gmail.com)
 
 ---
 
-## âš¡ Core Specializations
-* **Autopilot Media Pipelines**: Designed and deployed a -operating-cost video generation & distribution pipeline (replacing Submagic/Creatomate) using **n8n**, **Node.js**, **FFmpeg**, and **Puppeteer**.
+## ⚡ Core Specializations
+* **Autopilot Media Pipelines**: Designed and deployed a $0-operating-cost video generation & distribution pipeline (replacing Submagic/Creatomate) using **n8n**, **Node.js**, **FFmpeg**, and **Puppeteer**.
 * **Edge-First Architectures**: Building globally distributed gateways and AI microservices using **Cloudflare Workers** and serverless computing.
 * **Database & DevOps**: Containerizing multi-service ecosystems with **Docker**, orchestration on **AWS EC2**, and scalable backends using **Supabase** / **PostgreSQL**.
 
 ---
 
-## ðŸ› ï¸ Tech Stack & Tooling
+## 🛠️ Tech Stack & Tooling
 
 | Category | Technologies |
 |---|---|
@@ -26,27 +26,27 @@ Specializing in building self-hosted automation systems, autonomous AI agents, a
 
 ---
 
-## ðŸ“‚ Featured Open Source Systems
+## 📂 Featured Open Source Systems
 
 Here are the key production-grade systems I've built. All are self-hostable, edge-optimized, and free-tier first:
 
-### ðŸ¤– AI & Computer Vision Microservices
+### 🤖 AI & Computer Vision Microservices
 * **[AuraMesh](https://github.com/mehaksandhudev/aura-mesh)**: Edge-optimized Face Landmark & Coordinate Telemetry Microservice (Node.js/OpenCV).
 * **[StableDiff-Edge](https://github.com/mehaksandhudev/stablediff-edge)**: Globally distributed Stable Diffusion AI Image Gateway running on Cloudflare Workers.
 * **[Flux-Serverless](https://github.com/mehaksandhudev/flux-serverless)**: Autoscaling serverless API for high-quality image generation using modern AI models.
 
-### ðŸŽ¥ Media Automation & Pipelines
+### 🎥 Media Automation & Pipelines
 * **[Clippy Engine](https://github.com/mehaksandhudev/clippy-engine)**: Multi-service video automation ecosystem to generate social media clips.
 * **[OmniStream](https://github.com/mehaksandhudev/omni-stream)**: Containerized YouTube media ingestion service optimized for high network performance.
 * **[Short-Sweet](https://github.com/mehaksandhudev/short-sweet)**: Omni-channel video distribution telemetry client with automated upload features.
 
-### ðŸ“± Enterprise Automation & SaaS
+### 📱 Enterprise Automation & SaaS
 * **[InstaFlow SaaS](https://github.com/mehaksandhudev/instaflow-saas)** & **[InstaFlow Server](https://github.com/mehaksandhudev/instaflow-server)**: Enterprise high-concurrency Instagram automation engines.
 * **[Peak Labs](https://github.com/mehaksandhudev/peak-labs)**: Full-stack platform managing Instagram operations and user telemetry.
 
 ---
 
-## ðŸ“Š GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mehaksandhudev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
