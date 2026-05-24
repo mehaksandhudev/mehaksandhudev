@@ -7,10 +7,10 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-mehak--sandhu.in-6366f1?style=for-the-badge&logoColor=white)](https://www.mehak-sandhu.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehak-sandhu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehak-sandhu-dev)
 [![Twitter](https://img.shields.io/badge/Twitter-@mehaksandhudev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mehaksandhudev)
-[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-Images-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/mehaksandhu)
-[![Email](https://img.shields.io/badge/Hire%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehak@mehak-sandhu.in)
+[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-Images-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/mehakxsandhu)
+[![Email](https://img.shields.io/badge/Hire%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehaksandhudev@gmail.com)
 
 </div>
 
@@ -213,7 +213,7 @@ If you need someone who ships **production systems** — not prototypes —
 and understands that **self-hosted beats SaaS** when built right, let's talk.
 
 [![View Portfolio](https://img.shields.io/badge/🌐%20View%20Portfolio-mehak--sandhu.in-6366f1?style=for-the-badge)](https://www.mehak-sandhu.in)
-[![Book a Call](https://img.shields.io/badge/📅%20Book%20a%20Call-Schedule%20Now-06b6d4?style=for-the-badge)](https://www.mehak-sandhu.in/#contact)
+[![Book a Call](https://img.shields.io/badge/📅%20Book%20a%20Call-Schedule%20Now-06b6d4?style=for-the-badge)](https://www.mehak-sandhu.in/contact)
 [![View Resume](https://img.shields.io/badge/📄%20Resume-Download%20PDF-8b5cf6?style=for-the-badge)](https://www.mehak-sandhu.in)
 
 </div>
