@@ -20,7 +20,7 @@
 
 > 💡 **"If it runs more than twice — automate it. If it costs monthly — self-host it."**
 
-I am an **Automation Engineer & Backend Architect** based in India 🇮🇳. My mission is to replace manual work with autonomous, self-hosted systems.
+I am an **Automation Engineer & Backend Architect** based in **Amritsar, Punjab, India 🇮🇳**. My mission is to replace manual work with autonomous, self-hosted systems.
 
 * **What I Build:** Production-ready, cost-optimized, Docker-shippable infrastructure.
 * **Specialties:** n8n Workflow Orchestration, AI Agents & LLM Pipelines, Video Automation, and Self-Hosted Systems.
