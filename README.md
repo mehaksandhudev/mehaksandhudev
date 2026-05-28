@@ -157,13 +157,14 @@ I am an **Automation Engineer & Backend Architect** based in **Amritsar, Punjab,
 
 ## 🔄 How I Work
 
-<div align="center">
-
-| 🔍 1. AUDIT & MAP | 📐 2. ARCHITECT | 🚀 3. AUTOMATE |
-| :--- | :--- | :--- |
-| **Discover**<br>• Analyze manual tasks<br>• Map API bottlenecks<br>• Calculate SaaS cost savings | **Design**<br>• Design stateful n8n workflows<br>• Blueprint Docker configs<br>• Draft database models | **Deploy**<br>• Launch on VPS (Coolify/Docker)<br>• Set up robust error notifications<br>• Deliver complete handoff |
-
-</div>
+> **🔍 Step 1: Discover & Map**  
+> We audit your daily manual operations and map API bottlenecks to find the highest-ROI automation opportunities.
+> 
+> **📐 Step 2: Architect & Design**  
+> I design stateful n8n pipelines, dockerize microservices, and configure secure, self-hosted databases.
+> 
+> **🚀 Step 3: Automate & Deploy**  
+> We launch the system on your VPS, configure automated retries and error-reporting, and deliver complete handoff.
 
 **What you get:**
 - 🛡️ **Zero Vendor Lock-In** — Self-hosted on your own infrastructure (your data, your keys).
