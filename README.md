@@ -18,34 +18,15 @@
 
 ## 👋 About Me
 
-I am an **Automation Engineer & Backend Architect** based in India 🇮🇳. My mission is to design and build autonomous, self-hosted systems that save businesses hundreds of hours and thousands in monthly SaaS costs.
+> 💡 **"If it runs more than twice — automate it. If it costs monthly — self-host it."**
 
-> **My Philosophy:** If it runs more than twice — automate it. If it costs monthly — self-host it.
+I am an **Automation Engineer & Backend Architect** based in India 🇮🇳. My mission is to replace manual work with autonomous, self-hosted systems.
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Core Focus Areas</h3>
-      <ul>
-        <li>🔄 <b>n8n Workflow Orchestration</b> — Complex, stateful, and logic-driven integrations.</li>
-        <li>🤖 <b>AI Agents & LLM Pipelines</b> — Autonomous systems that think, decide, and execute.</li>
-        <li>🎬 <b>Video Automation</b> — Hands-free YouTube ingestion, processing, and publishing.</li>
-        <li>🏗️ <b>Self-Hosted Infrastructure</b> — Production-ready VPS deployments with zero SaaS bloat.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💼 Professional Details</h3>
-      <ul>
-        <li>🎯 <b>Target Clients:</b> Founders, Creators, and Growing Enterprises</li>
-        <li>🤝 <b>Available For:</b> Freelance, Full-time Remote, Consulting, and Contract</li>
-        <li>📍 <b>Location:</b> India (Remote Worldwide 🌐)</li>
-        <li>🌱 <b>Approach:</b> Production-ready, containerized, and cost-optimized</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+* **What I Build:** Production-ready, cost-optimized, Docker-shippable infrastructure.
+* **Specialties:** n8n Workflow Orchestration, AI Agents & LLM Pipelines, Video Automation, and Self-Hosted Systems.
+* **Collaboration:** Partnering with **Founders**, **Creators**, and **Enterprises** for freelance, remote, or consulting roles.
 
-I build systems that **think, decide, and execute** — 24/7, without manual intervention. My focus is always on production-ready, cost-optimized, Docker-shippable infrastructure. Built in public. Always open-source first.
+> I build systems that **think, decide, and execute** — 24/7, without manual intervention. My focus is always on production-ready, cost-optimized, Docker-shippable infrastructure. Built in public. Always open-source first.
 
 ---
 
