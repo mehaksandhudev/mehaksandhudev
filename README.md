@@ -104,14 +104,14 @@ I am an **Automation Engineer & Backend Architect** based in **Amritsar, Punjab,
 
 ### 💼 SaaS & Enterprise AI Platforms
 
-**[RankWizard](https://github.com/mehaksandhudev)** 🔒 *(Private Repository)* — AI-Powered SEO & Content Generation Platform
+**[RankWizard](https://github.com/mehaksandhudev)** ![Private](https://img.shields.io/badge/🔒-Private-red?style=flat-square) — AI-Powered SEO & Content Generation Platform
 - Comprehensive AI-driven platform for website analysis, SEO insights, and automated content creation
 - Real-time website rankings and backlink analysis via URL input
 - AI-generated blog articles optimized for search engines
 - Content-to-audio conversion for podcast and multimedia distribution
 - Tech Stack: Full-Stack Technologies, AI Integration, SEO APIs, Text-to-Speech, Web Scraping
 
-**[CA Firm Agentic AI Workspace](http://ca-taskmanager.agentvidia.com)** 🌐 *(Live Demo)* — Enterprise-Grade Management Platform
+**[CA Firm Agentic AI Workspace](http://ca-taskmanager.agentvidia.com)** ![Live Demo](https://img.shields.io/badge/🌐-Live%20Demo-blue?style=flat-square) — Enterprise-Grade Management Platform
 - Built with full-stack MERN architecture and PostgreSQL for chartered accountancy firms
 - Embedded AI Smart assistant that interprets natural language commands to autonomously execute system tasks
 - Real-time employee progress tracking, client work management, task monitoring, invoice generation, and deliverable assignment
@@ -119,36 +119,36 @@ I am an **Automation Engineer & Backend Architect** based in **Amritsar, Punjab,
 
 ### 🎬 Video & Media Automation
 
-**[Clippy](https://github.com/mehaksandhudev/clippy-engine)** 🔒 *(Private Repository)* — Self-hosted YouTube → AI → Storage pipeline
+**[Clippy](https://github.com/mehaksandhudev/clippy-engine)** ![Private](https://img.shields.io/badge/🔒-Private-red?style=flat-square) — Self-hosted YouTube → AI → Storage pipeline
 - YouTube ingestion via `yt-dlp`, AI face detection via **MediaPipe** (local, no GPU)
 - Dockerized, n8n-ready · Streams processed video to **MinIO/S3**
 - Drops into any existing stack — no cloud vendor lock-in
 
-**[Face Landmark API](https://github.com/mehaksandhudev/aura-mesh)** 🔓 *(Public Repository)* — Production-ready Dockerized Face Detection
+**[Face Landmark API](https://github.com/mehaksandhudev/aura-mesh)** ![Public](https://img.shields.io/badge/🔓-Public-brightgreen?style=flat-square) — Production-ready Dockerized Face Detection
 - 100% local inference · No GPU required · No third-party API costs
 - REST API wrapping MediaPipe Face Mesh — plug straight into n8n or any workflow
 - Ideal for content moderation, avatar generation, and video analytics pipelines
 
 ### 📸 Social Media Automation
 
-**[Instagram Comment-to-DM Engine](https://github.com/mehaksandhudev/instaflow-saas)** 🔒 *(Private Repository)* — Multi-tenant Engagement SaaS
+**[Instagram Comment-to-DM Engine](https://github.com/mehaksandhudev/instaflow-saas)** ![Private](https://img.shields.io/badge/🔒-Private-red?style=flat-square) — Multi-tenant Engagement SaaS
 - Keyword-triggered DM automation with **webhook-verified funnels**
 - Built with FastAPI + Next.js · Rate-limit-safe · JSON-backed (zero database costs)
 - Multi-tenant architecture — one deployment serves unlimited client accounts
 
 ### 🎨 AI Image Generation APIs
 
-**[SDXL on Cloudflare Workers AI](https://github.com/mehaksandhudev/stablediff-edge)** 🔓 *(Public Repository)* — Serverless Image Generation
+**[SDXL on Cloudflare Workers AI](https://github.com/mehaksandhudev/stablediff-edge)** ![Public](https://img.shields.io/badge/🔓-Public-brightgreen?style=flat-square) — Serverless Image Generation
 - Deploy SDXL at the edge with zero cold starts · Per-request billing only
 - REST API ready for n8n integration — generate thumbnails, product images, social assets
 
-**[FLUX.1 on Modal](https://github.com/mehaksandhudev/flux-serverless)** 🔓 *(Public Repository)* — State-of-the-art Image Model Deployment
+**[FLUX.1 on Modal](https://github.com/mehaksandhudev/flux-serverless)** ![Public](https://img.shields.io/badge/🔓-Public-brightgreen?style=flat-square) — State-of-the-art Image Model Deployment
 - Scalable serverless deployment of FLUX.1 with GPU auto-scaling
 - Production API with auth, rate limiting, and webhook callbacks
 
 ### 🔁 Infrastructure & DevOps Automation
 
-**[MinIO Video Streaming API](https://github.com/mehaksandhudev/omni-stream)** 🔓 *(Public Repository)* — Self-Hosted S3 Video Delivery
+**[OmniStream](https://github.com/mehaksandhudev/omni-stream)** ![Public](https://img.shields.io/badge/🔓-Public-brightgreen?style=flat-square) — Self-Hosted S3 Video Delivery
 - Containerized REST API wrapping `yt-dlp` → ships videos to MinIO/S3
 - Replace expensive CDN/cloud storage with a single VPS + MinIO stack
 - Integrates natively with n8n for fully automated ingest-process-store pipelines
