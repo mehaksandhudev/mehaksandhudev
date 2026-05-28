@@ -157,22 +157,19 @@ I am an **Automation Engineer & Backend Architect** based in **Amritsar, Punjab,
 
 ## 🔄 How I Work
 
-```
-┌─────────────┐    ┌─────────────┐    ┌─────────────────────────┐
-│  DISCOVER   │ → │   DESIGN    │ → │        DEPLOY           │
-│             │    │             │    │                         │
-│ Analyze your│    │ Custom auto │    │ 24/7 autonomous system  │
-│ workflows & │    │ architecture│    │ monitoring & executing  │
-│ pain points │    │ blueprint   │    │ — while you sleep 💤    │
-└─────────────┘    └─────────────┘    └─────────────────────────┘
-```
+<div align="center">
+
+| 🔍 1. AUDIT & MAP | 📐 2. ARCHITECT | 🚀 3. AUTOMATE |
+| :--- | :--- | :--- |
+| **Discover**<br>• Analyze manual tasks<br>• Map API bottlenecks<br>• Calculate SaaS cost savings | **Design**<br>• Design stateful n8n workflows<br>• Blueprint Docker configs<br>• Draft database models | **Deploy**<br>• Launch on VPS (Coolify/Docker)<br>• Set up robust error notifications<br>• Deliver complete handoff |
+
+</div>
 
 **What you get:**
-- ✅ Self-hosted — your infrastructure, your data, no monthly SaaS fees
-- ✅ Docker-packaged — runs anywhere, scales everywhere
-- ✅ n8n-orchestrated — visual, maintainable, auditable workflows
-- ✅ Production-grade — rate limiting, error handling, retries built in
-- ✅ Cost-optimized — replace $500/mo SaaS stacks with a single VPS
+- 🛡️ **Zero Vendor Lock-In** — Self-hosted on your own infrastructure (your data, your keys).
+- 📦 **Production-Grade Infrastructure** — Docker-packaged and ready to scale anywhere.
+- 🤖 **Autonomous Reliability** — n8n workflows with automatic retries and rate-limiting built-in.
+- 💰 **Drastic Cost Optimization** — Replace high-ticket monthly SaaS subscriptions with a single, cost-effective VPS.
 
 ---
 
