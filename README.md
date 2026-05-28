@@ -104,16 +104,14 @@ I am an **Automation Engineer & Backend Architect** based in **Amritsar, Punjab,
 
 ### 💼 SaaS & Enterprise AI Platforms
 
-**[RankWizard](https://www.mehak-sandhu.in/contact)** — AI-Powered SEO & Content Generation Platform
-*(Private Repository — [Request Access via Email](mailto:mehak@mehak-sandhu.in?subject=Request%20Access%20to%20RankWizard%20Repository&body=Hi%20Mehak,%20I'd%20love%20to%20request%20access%20to%20the%20RankWizard%20repository.%20My%20GitHub%20username%20is:%20) or [Contact Form](https://www.mehak-sandhu.in/contact))*
+**[RankWizard](https://www.mehak-sandhu.in/contact)** — AI-Powered SEO & Content Generation Platform *(🔒 Private — [Request Access](mailto:mehak@mehak-sandhu.in?subject=Request%20Access%20to%20RankWizard%20Repository&body=Hi%20Mehak,%20I'd%20love%20to%20request%20access%20to%20the%20RankWizard%20repository.%20My%20GitHub%20username%20is:%20) | [Contact Form](https://www.mehak-sandhu.in/contact))*
 - Comprehensive AI-driven platform for website analysis, SEO insights, and automated content creation
 - Real-time website rankings and backlink analysis via URL input
 - AI-generated blog articles optimized for search engines
 - Content-to-audio conversion for podcast and multimedia distribution
 - Tech Stack: Full-Stack Technologies, AI Integration, SEO APIs, Text-to-Speech, Web Scraping
 
-**[CA Firm Agentic AI Workspace](http://ca-taskmanager.agentvidia.com)** — Enterprise-Grade Management Platform
-*(Live Platform — [Visit Site](http://ca-taskmanager.agentvidia.com) or [Request Demo/Access](https://www.mehak-sandhu.in/contact))*
+**[CA Firm Agentic AI Workspace](http://ca-taskmanager.agentvidia.com)** — Enterprise-Grade Management Platform *(🌐 Live Site | [Request Access/Demo](https://www.mehak-sandhu.in/contact))*
 - Built with full-stack MERN architecture and PostgreSQL for chartered accountancy firms
 - Embedded AI Smart assistant that interprets natural language commands to autonomously execute system tasks
 - Real-time employee progress tracking, client work management, task monitoring, invoice generation, and deliverable assignment
@@ -121,8 +119,7 @@ I am an **Automation Engineer & Backend Architect** based in **Amritsar, Punjab,
 
 ### 🎬 Video & Media Automation
 
-**[Clippy](https://www.mehak-sandhu.in/contact)** — Self-hosted YouTube → AI → Storage pipeline
-*(Private Repository — [Request Access via Email](mailto:mehak@mehak-sandhu.in?subject=Request%20Access%20to%20Clippy%20Repository&body=Hi%20Mehak,%20I'd%20love%20to%20request%20access%20to%20the%20Clippy%20repository.%20My%20GitHub%20username%20is:%20) or [Contact Form](https://www.mehak-sandhu.in/contact))*
+**[Clippy](https://www.mehak-sandhu.in/contact)** — Self-hosted YouTube → AI → Storage pipeline *(🔒 Private — [Request Access](mailto:mehak@mehak-sandhu.in?subject=Request%20Access%20to%20Clippy%20Repository&body=Hi%20Mehak,%20I'd%20love%20to%20request%20access%20to%20the%20Clippy%20repository.%20My%20GitHub%20username%20is:%20) | [Contact Form](https://www.mehak-sandhu.in/contact))*
 - YouTube ingestion via `yt-dlp`, AI face detection via **MediaPipe** (local, no GPU)
 - Dockerized, n8n-ready · Streams processed video to **MinIO/S3**
 - Drops into any existing stack — no cloud vendor lock-in
@@ -134,8 +131,7 @@ I am an **Automation Engineer & Backend Architect** based in **Amritsar, Punjab,
 
 ### 📸 Social Media Automation
 
-**[Instagram Comment-to-DM Engine](https://www.mehak-sandhu.in/contact)** — Multi-tenant Engagement SaaS
-*(Private Repository — [Request Access via Email](mailto:mehak@mehak-sandhu.in?subject=Request%20Access%20to%20Instagram%20Comment-to-DM%20Engine%20Repository&body=Hi%20Mehak,%20I'd%20love%20to%20request%20access%20to%20the%20Instagram%20Comment-to-DM%20Engine%20repository.%20My%20GitHub%20username%20is:%20) or [Contact Form](https://www.mehak-sandhu.in/contact))*
+**[Instagram Comment-to-DM Engine](https://www.mehak-sandhu.in/contact)** — Multi-tenant Engagement SaaS *(🔒 Private — [Request Access](mailto:mehak@mehak-sandhu.in?subject=Request%20Access%20to%20Instagram%20Comment-to-DM%20Engine%20Repository&body=Hi%20Mehak,%20I'd%20love%20to%20request%20access%20to%20the%20Instagram%20Comment-to-DM%20Engine%20repository.%20My%20GitHub%20username%20is:%20) | [Contact Form](https://www.mehak-sandhu.in/contact))*
 - Keyword-triggered DM automation with **webhook-verified funnels**
 - Built with FastAPI + Next.js · Rate-limit-safe · JSON-backed (zero database costs)
 - Multi-tenant architecture — one deployment serves unlimited client accounts
