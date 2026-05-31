@@ -1,6 +1,5 @@
 <div align="center">
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%E2%98%95-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/mehaksandhudev)
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=220&section=header&text=Mehak%20Sandhu&fontSize=58&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Automation%20Engineer%20%7C%20AI%20Systems%20Builder%20%7C%20Backend%20Architect&descAlignY=58&descSize=17" width="100%"/>
@@ -210,3 +209,11 @@ and understands that **self-hosted beats SaaS** when built right, let's talk.
 <sub>⚡ Automation Engineer · Self-hosted by default · Built in public · <a href="https://www.mehak-sandhu.in">mehak-sandhu.in</a></sub>
 
 </div>
+
+---
+
+## ? Support
+
+If this project helped you, consider buying me a coffee!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%E2%98%95-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/mehaksandhudev)
