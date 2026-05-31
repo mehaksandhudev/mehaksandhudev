@@ -194,6 +194,16 @@ I'm available for **freelance**, **consulting**, and **full-time remote** engage
 If you need someone who ships **production systems** — not prototypes —  
 and understands that **self-hosted beats SaaS** when built right, let's talk.
 
+---
+
+## ☕ Support
+
+If my projects helped you, consider buying me a coffee!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-☕-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/mehaksandhudev)
+
+---
+
 [![View Portfolio](https://img.shields.io/badge/🌐%20View%20Portfolio-mehak--sandhu.in-6366f1?style=for-the-badge)](https://www.mehak-sandhu.in)
 [![Book a Call](https://img.shields.io/badge/📅%20Book%20a%20Call-Schedule%20Now-06b6d4?style=for-the-badge)](https://calendly.com/mehaksandhudev/30min)
 [![View Resume](https://img.shields.io/badge/📄%20Resume-Download%20PDF-8b5cf6?style=for-the-badge)](https://www.mehak-sandhu.in)
@@ -211,9 +221,3 @@ and understands that **self-hosted beats SaaS** when built right, let's talk.
 </div>
 
 ---
-
-## ☕ Support
-
-If this project helped you, consider buying me a coffee!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-☕-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/mehaksandhudev)
