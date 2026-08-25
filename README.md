@@ -204,8 +204,8 @@ and understands that **self-hosted beats SaaS** when built right, let's talk.
 
 
 [![View Portfolio](https://img.shields.io/badge/🌐%20View%20Portfolio-mehak--sandhu.in-6366f1?style=for-the-badge)](https://www.mehak-sandhu.in)
-[![Book a Call](https://img.shields.io/badge/📅%20Book%20a%20Call-Schedule%20Now-06b6d4?style=for-the-badge)](https://calendly.com/mehaksandhudev/30min)
-[![View Resume](https://img.shields.io/badge/📄%20Resume-Download%20PDF-8b5cf6?style=for-the-badge)](https://www.mehak-sandhu.in)
+[![Book a Call](https://img.shields.io/badge/📅%20Book%20a%20Call-Schedule%20Now-06b6d4?style=for-the-badge)](https://calendly.com/mehaksandhudev/30min-automation-consult)
+[![View Resume](https://img.shields.io/badge/📄%20Resume-Download%20PDF-8b5cf6?style=for-the-badge)](https://www.mehak-sandhu.in/resume)
 
 </div>
 
