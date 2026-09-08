@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-mehak--sandhu.in-6366f1?style=for-the-badge&logoColor=white)](https://www.mehak-sandhu.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehak-sandhu-dev)
-[![Twitter](https://img.shields.io/badge/Twitter-@mehaksandhudev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mehaksandhudev)
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mhksandhu)
 [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-Images-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/mehakxsandhu)
 [![Email](https://img.shields.io/badge/Hire%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehaksandhudev@gmail.com)
 
