@@ -49,11 +49,11 @@ I am an **Automation Architect & Backend Architect** based in **Amritsar, Punjab
 <td width="50%" valign="top">
 
 ### 🤖 AI Agents & LLM Systems
-- Multi-agent systems with memory, tool-use & dynamic routing
-- LLM-powered classification, summarization & decision engines
-- **RAG pipelines** with vector stores (Pinecone, Qdrant, pgvector)
-- Local inference with **Ollama** — no API costs, full privacy
-- Serverless AI: SDXL on Cloudflare Workers AI · FLUX.1 on Modal
+- Multi-agent systems with memory, tool-use, dynamic routing & role decomposition
+- Autonomous self-improving agents with persistent state recovery (zero amnesia)
+- Applied ML & Probability Classifiers (**LightGBM**, walk-forward OOS validation)
+- **RAG pipelines** with vector stores (Pinecone, Qdrant, pgvector, Supabase)
+- Local & Edge Inference: **Ollama**, **Gemini 2.0 Flash**, Cloudflare Workers AI, FLUX.1 on Modal
 
 </td>
 </tr>
@@ -71,11 +71,11 @@ I am an **Automation Architect & Backend Architect** based in **Amritsar, Punjab
 <td width="50%" valign="top">
 
 ### 🏗️ Backend & Infrastructure
-- **FastAPI** · Next.js · TypeScript — production-grade APIs
-- **Docker** microservices architecture — containerize everything
+- **FastAPI** · Next.js · TypeScript — production-grade APIs & full-stack architectures
+- **Docker** microservices & Ephemeral PR preview environments (Cloudflare Tunnels)
+- Native Mobile App Development (**Kotlin** & **Jetpack Compose**)
 - Self-hosted on VPS / **Coolify** / Nginx — replace SaaS at a fraction of cost
-- PostgreSQL · MongoDB · Redis — designed for production loads
-- MinIO (S3-compatible self-hosted object storage)
+- PostgreSQL · SQLite · MongoDB · Redis · MinIO (S3-compatible object storage)
 
 </td>
 </tr>
@@ -90,11 +90,11 @@ I am an **Automation Architect & Backend Architect** based in **Amritsar, Punjab
 | Category | Technologies |
 |---|---|
 | **Automation** | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white) ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white) ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white) |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
-| **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white) |
-| **AI & ML** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=flat-square&logo=mediapipe&logoColor=white) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-E3A018?style=flat-square&logo=elevenlabs&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Modal](https://img.shields.io/badge/Modal-000000?style=flat-square&logo=modal&logoColor=white) |
-| **Databases & Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white) |
-| **Infrastructure & Scrapers** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Coolify](https://img.shields.io/badge/Coolify-6B21A8?style=flat-square&logo=coolify&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Firecrawl](https://img.shields.io/badge/Firecrawl-FF3E00?style=flat-square&logo=firecrawl&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007ACC?style=flat-square&logo=ffmpeg&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black) |
+| **AI & ML** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=flat-square&logo=mediapipe&logoColor=white) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-E3A018?style=flat-square&logo=elevenlabs&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Modal](https://img.shields.io/badge/Modal-000000?style=flat-square&logo=modal&logoColor=white) |
+| **Databases & Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white) |
+| **Infrastructure & Scrapers** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Coolify](https://img.shields.io/badge/Coolify-6B21A8?style=flat-square&logo=coolify&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Firecrawl](https://img.shields.io/badge/Firecrawl-FF3E00?style=flat-square&logo=firecrawl&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007ACC?style=flat-square&logo=ffmpeg&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 </div>
 
